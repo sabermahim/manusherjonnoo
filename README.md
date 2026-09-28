@@ -91,7 +91,8 @@ The administrator can:
 
 ## 📸 Screenshots
 
-_Add project screenshots here._
+<img width="1262" height="852" alt="image" src="https://github.com/user-attachments/assets/c5f69299-5cca-4d97-8ddf-d5c0ed7e71a4" />
+
 
 ## 🏗️ Project Architecture
 
