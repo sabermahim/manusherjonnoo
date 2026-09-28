@@ -1,0 +1,8 @@
+{
+  "name": "মানুষের জন্য",
+  "description": "একটি কমিউনিটি সহায়তা প্ল্যাটফর্ম যেখানে সাধারণ মানুষ সুবিধাবঞ্চিত মানুষের সহায়তার আবেদন জানাতে পারে এবং স্বেচ্ছাসেবক ও শুভাকাঙ্ক্ষীরা সরাসরি এগিয়ে আসতে পারে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
